@@ -1,0 +1,8 @@
+Create the data set for an online store 
+
+information necessary for a product on the store 
+
+i.e: stock, desc, colour, size, pictures, contents, product info, etc.
+
+
+step 1: create a spreadsheet for the data set
