@@ -29,6 +29,12 @@ const changeDiceImg = document.getElementById(`diceImg`);
 changeDiceImg.innerHTML = `<img src="img/dice${diceRoll}.svg" alt=""></img>`
 
 
+if (diceRoll > 5) {
+   let outputMessage = "You Win!!";
+   const diceValue = document.getElementById(`rollOutput`);  
+   diceValue.innerHTML = `You rolled: ${diceRoll}. ${outputMessage}`;
+ }
+
 
 
 
