@@ -6,3 +6,9 @@ i.e: stock, desc, colour, size, pictures, contents, product info, etc.
 
 
 step 1: create a spreadsheet for the data set
+
+3 products with all the relevant categories of data
+
+make that into an array in js and output it
+
+array, with objects and or sub arrays 
